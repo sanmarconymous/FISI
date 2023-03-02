@@ -1,0 +1,99 @@
+=====================TEXTO======================
+El "nuevo" método científico baconiano surgió como un intento de corregir las deficiencias 
+de la teoría aristotélica clásica, pero en realidad solo aportó dos cosas nuevas: un 
+procedimiento para hacer inducciones graduales y progresivas, y un método de exclusión.
+ 
+Respecto a las inducciones, Bacon postuló que primero debería recopilarse una "serie de 
+historias naturales y experimentales" y hasta no contar con información empírica amplia no 
+dar el siguiente paso, que sería empezar a eliminar algunas posibilidades. Bacon puso 
+como ejemplo la determinación de la causa del calor, para lo que debe hacerse una lista de 
+todas las cosas que sean calientes y otra lista de las que no lo son, así como una lista más 
+de las cosas que muestran distintos grados de calor. En la primera de estas listas ("Tabla 
+de esencia y presencia") se encuentran el Sol, el verano y el fuego, entre muchas otras; en 
+la segunda lista ("Tabla de desviaciones o de ausencia de proximidad") están la Luna, las 
+estrellas, las cenizas mezcladas con agua, y el invierno, también entre otras; y en la tercera 
+("Tabla de grados o de comparación del calor") tenemos a los planetas, el estiércol, las 
+variaciones de temperatura ambiental, fuegos de distinta intensidad, etc. Con estas tablas 
+ya es posible excluir algunos factores como causa del calor, y Bacon señala que la 
+"luminosidad y el brillo" pueden eliminarse, en vista de que la Luna, aunque posee ambas 
+características, es fría. De esta manera se puede llegar a la primera conclusión sobre la 
+causa del calor, que para Bacon no es otra cosa que el movimiento. El siguiente paso es 
+buscar en otros fenómenos naturales si esa correlación, entre calor y movimiento, se 
+confirma; si es así, puede procederse a establecer una segunda correlación, y repitiendo el 
+proceso cada vez a niveles más altos de generalidad se obtiene mayor confianza en el
+conocimiento sobre la esencia del calor. Se ha dicho que Bacon pensaba que con este 
+método la generación del conocimiento científico era algo automático.
+======================PREGUNTA 1======================
+El tema central del texto se refiere a 
+======================ALTERNATIVAS======================
+A) aportes del nuevo método baconiano para la generación del conocimiento  
+científico.  
+B) la corrección, por Bacon, de los errores del método aristotélico de conocimiento 
+científico.   
+C) el proceso de inducciones graduales en la generación del conocimiento científico.  
+D) la determinación de la causa del calor mediante el método de inducciones y 
+exclusiones.  
+E) el movimiento, y no la luminosidad, causa del calor, establecida por el método de 
+las inducciones 
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Aun cuando intentó de corregir las deficiencias de la teoría aristotélica clásica, en 
+realidad solo aportó dos cosas nuevas: un procedimiento para hacer inducciones 
+graduales y progresivas, y un método de exclusión.
+======================PREGUNTA 2======================
+En el texto, el vocablo ELIMINACIÓN alude a 
+======================ALTERNATIVAS======================
+A) cercenamiento.                     
+B) mengua.                  
+C) conjetura.  
+D) exclusión.          
+E) delimitación.
+======================ALTERNATIVA CORRECTA======================
+D
+======================RAZONAMIENTO======================
+Se refiere a la exclusión de la "luminosidad y el brillo" como causa del calor.
+======================PREGUNTA 3======================
+Se deduce que, para Bacon, cuanto mayor es el nivel de generalidad del 
+conocimiento, 
+======================ALTERNATIVAS======================
+A) el margen de exclusión es insignificante.  
+B) la inducción es el proceso más relevante.  
+C) este asume el carácter de hipótesis científica.  
+D) concluye el proceso del conocimiento científico.  
+E) requiere un mayor proceso de exclusión
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Según el autor, cada vez que se confirma una correlación se obtiene un nivel más alto 
+de generalidad, que implica mayor confianza en el conocimiento de la esencia de un 
+fenómeno; por tanto , el margen de exclusión es insignificante. 
+======================PREGUNTA 4======================
+Es incompatible con el método baconiano aseverar que la inducción  
+======================ALTERNATIVAS======================
+A) implica recopilación de historias naturales y experimentales.  
+B) es un proceso de generalización gradual y progresiva.  
+C) requiere, previamente, del gradual proceso de exclusión.  
+D) en su más alto nivel, conduce a un conocimiento más fiable.  
+E) y la exclusión son procesos complementarios del conocimiento .
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Según Bacon, primero debería recopilarse una "serie de historias naturales y 
+experimentales" y hasta no contar con información empírica amplia no dar el siguiente 
+paso, que sería empezar a eliminar algunas posibilidades. 
+======================PREGUNTA 5======================
+Si en el ejemplo presentado no se confirmara en otros fenómenos naturales la 
+correlación entre calor y movimiento,
+======================ALTERNATIVAS======================
+A) el método baconiano prescindiría de la inducción.  
+B) aun así,  se podría conocer la esencia del calor.  
+C) la luz y la luminosidad serían las causas del calor  
+D) se comprobaría la fragilidad del método baconiano.  
+E) se cuestionaría a este como generador del calor.
+======================ALTERNATIVA CORRECTA======================
+E
+======================RAZONAMIENTO====================== 
+La confirmación de la correlación acerca al conocimiento de la esencia del fenómeno. 
+En caso contrario, en el caso del ejemplo, se cuestionaría al movimiento como 
+generador del calor 

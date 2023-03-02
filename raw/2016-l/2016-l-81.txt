@@ -1,0 +1,48 @@
+=====================TEXTO======================
+Las ballenas azules son los seres vivos que emiten los sonidos más potentes, pero 
+los martinetes empleados en la cimentación con pilotes las superan en volumen. Expertos 
+en acústica de la Universidad de Texas saben cómo atenuar el ruido industrial submarino 
+para no perjudicar la comunicación de las ballenas: rodeando la maquinaria con una 
+cortina de burbujas capaces de reducir en 40 decibelios el estruendo de la construcción 
+de puentes o la perforación petrolera, lo cual equivale a convertir el ruido de una calle 
+urbana en el ambiente de una biblioteca. Martillear entre burbujas debilita la energía de 
+las ondas sonoras. Los primeros test se hicieron con burbujas normales, pero en la 
+versión definitiva se empleó aire encapsulado en películas de látex. La cortina de burbujas 
+se ató a unos cabos lastrados para que estas no se rompieran o salieran flotando. En las 
+pruebas , la cortina de burbujas devolvió al fondo marino su sonido natural. 
+======================PREGUNTA 1======================
+Si las burbujas usadas como atenuante del ruido de los martilleos fueran demasiado 
+dispersas como para constituir una cortina, es probable que  
+======================ALTERNATIVAS======================
+A) las poblaciones de ballenas disminuyan considerablemente y pase n a ser una 
+especie en extinción.  
+B) los expertos de acústica involucrados en el proyecto consideren el desecho de 
+todo material ruidoso.  
+C) las ballenas se vean perjudicadas ante la imposibilidad de disminuir  la potencia 
+de los martinetes.  
+D) las poblaciones de ballenas se vean desplazadas a zonas más profundas para 
+evitar el ruido.  
+E) los investigadores procuren modificar la capacidad auditiva de las ballenas 
+azules en los mares.
+======================ALTERNATIVA CORRECTA======================
+C
+======================RAZONAMIENTO======================
+Las burbujas conforman una cortina; se deduce que es una cortina densa capaz de 
+atenuar el ruido de los martinetes. Si las burbujas generadas fueran dispersas, no 
+habría manera de disminuir la potencia del ruido.  
+======================PREGUNTA 2======================
+Si las frecuencias de las ballenas fueran sensiblemente mayores a las originadas por 
+los martinetes, probablemente
+======================ALTERNATIVAS======================
+A) la generación de cortinas  de burbujas sería innecesaria.  
+B) estas se verían diezmadas en su propio medio natural.  
+C) los expertos buscarían nuevas formas de atenuar el ruido.  
+D) los océanos serían nichos inhabitables para los cetáceos.  
+E) el apareamiento de mamíferos marinos se obstaculizaría. 
+======================ALTERNATIVA CORRECTA======================
+A
+======================RAZONAMIENTO======================
+Las frecuencias altas son propias de sonidos fuertes. Si los sonidos de las ballenas 
+tuviesen un rango de frecuencias más alto en comparación con los ruidos originados 
+por los martinetes, estos últimos no serían un peligro real para la comunicación de 
+cetáceos. 
