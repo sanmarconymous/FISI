@@ -19,3 +19,6 @@ Por ejemplo el examen final de matemática básica tomado en la sección 1, del 
 PERÍODO-SECCIÓN-CURSO-EVALUACIÓN.pdf
 
 2022-ll-G1-MATEMÁTICA-BÁSICA-EXAMEN-FINAL.pdf
+
+
+Todas las personas son bienvenidas a subir más documentos por medio de un Pull Request.
