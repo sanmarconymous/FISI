@@ -9,6 +9,7 @@ Para ayudarnos a que crezca el repositorio puedes mandar alguna prueba pasada la
 sanmarconymous@gmail.com
 
 **Jerarquía de carpetas**
+
 Seguir la siguiente guía o ejemplos del repositorio para añadir material
 FISI, en la actualidad está formado por dos Escuelas profesionales, Ing.software e Ing.sistemas, las cuales a su vez cuentan con planes de estudio, dentro de cada carpeta de planes de estudio, se encuentran los ciclos y dentro de ello los cursos de cada ciclo.
 
