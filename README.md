@@ -13,6 +13,9 @@ Seguir la siguiente guía o ejemplos del repositorio para añadir material
 FISI, en la actualidad está formado por dos Escuelas profesionales, Ing.software e Ing.sistemas, las cuales a su vez cuentan con planes de estudio, dentro de cada carpeta de planes de estudio, se encuentran los ciclos y dentro de ello los cursos de cada ciclo.
 
 Cada prueba debe tener la siguiente estructura:
+
 Por ejemplo el examen final de matemática básica tomado en la sección 1, del ciclo 2022-ll
+
 PERÍODO-SECCIÓN-CURSO-EVALUACIÓN.pdf
+
 2022-ll-G1-MATEMÁTICA-BÁSICA-EXAMEN-FINAL.pdf
